@@ -6,6 +6,3 @@
 # value = bytes(value, 'utf-8')
 # encodedValue = base64.b64encode(b"Programowanie laczy")
 # print(base64.b64decode(encodedValue))
-
-# Zadanie 2
-
