@@ -1,6 +1,4 @@
 # Hubert Jackowski
-# Z6 -0,5p 7.12 zamiast 7.120, 3.0 zamiast 3.000, itd.
-# Z7 -0,7p brak wyrówn. do prawej, środka i zn. wiodących
 
 # Zadanie 1
 print("Nazywam", "się", "Monty", "Python", sep="-", end=".")
