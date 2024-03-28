@@ -129,8 +129,8 @@ plt.tight_layout()
 plt.get_current_fig_manager().window.state('zoomed')
 
 #  ----------------------------------------------- Zadanie 1 -----------------------------------------------
-# f = DrawPlots(-1)
-# plt.show()
+f = DrawPlots(-1)
+plt.show()
 #  ----------------------------------------------- Zadanie 2 -----------------------------------------------
 ani = animation.FuncAnimation(fig=f, func=DrawPlots, blit=False, frames=range(1,9), interval=500, repeat=True)
 plt.show()
